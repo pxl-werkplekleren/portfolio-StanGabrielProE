@@ -55,8 +55,7 @@ header
     font-family: "Segoe UI Variable", "Segoe UI", system-ui, 
            "Helvetica Neue", Arial, sans-serif;
 
-    
-   background-image:url("assets/images/dotnet_conf_2022.png");
+    background-image:url("../images/dotnet_conf_2022.png");
    background-repeat: no-repeat;
    background-size: contain;
    background-position: right;
