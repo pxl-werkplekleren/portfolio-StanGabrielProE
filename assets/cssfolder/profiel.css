@@ -56,7 +56,7 @@ header
            "Helvetica Neue", Arial, sans-serif;
 
     
-   background-image:url("/assets/images/dotnet_conf_2022.png");
+   background-image:url("assets/images/dotnet_conf_2022.png");
    background-repeat: no-repeat;
    background-size: contain;
    background-position: right;
